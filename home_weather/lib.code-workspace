@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../.platformio/home_weather/lib"
+		},
+		{
+			"name": "home_weather",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
